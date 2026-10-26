@@ -125,3 +125,8 @@ Additional Pages:
 ## Citation
 
 If you find this work useful for your research or project, please consider citing it. 
+
+## Contributors
+
+- [Basavadeepthi H M](https://github.com/Never-DEE-Less)
+- [Shiva Teja Pecheti](https://github.com/shivatejapecheti)
